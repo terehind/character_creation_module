@@ -9,6 +9,10 @@ packages = [{include = "character_creation_module"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 flake8 = "^6.0.0"
+asciimatics = "^1.14.0"
+flake8-docstrings = "^1.7.0"
+pycodestyle = "^2.10.0"
+pyflakes = "^3.0.1"
 
 
 [build-system]
